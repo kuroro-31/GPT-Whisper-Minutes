@@ -1,1 +1,5 @@
-# GPT-Whisper-Minutes
+# Whisper-Minutes
+- 議事録アプリ
+## 使い方
+- ボイスレコーダーで音声を録画する
+- colabで音声ファイルをアップロードし、Whisperでテキスト化し、ダウンロードする
